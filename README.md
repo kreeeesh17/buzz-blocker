@@ -31,7 +31,7 @@ A machine learning-powered web application that classifies SMS messages as spam 
 ---
 
 
-Preview of the app can be accessed from [here](https://spam-guard.streamlit.app/)
+Preview of the app can be accessed from [here](https://buzz-blocker.streamlit.app/)
 
 ---
 
